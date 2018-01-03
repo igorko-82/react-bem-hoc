@@ -1,0 +1,30 @@
+{
+  "name": "react-bem-hoc",
+  "version": "1.0.0",
+  "description": "HOC for reactjs components",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "babel src/index.js  --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorko-82/react-bem-hoc.git"
+  },
+  "keywords": [
+    "react",
+    "bem",
+    "className",
+    "decorator"
+  ],
+  "author": "Igor Khudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorko-82/react-bem-hoc/issues"
+  },
+  "homepage": "https://github.com/igorko-82/react-bem-hoc#readme",
+  "devDependencies": {
+    "babel": "^6.1.5",
+    "babel-cli": "^6.1.4",
+    "babel-preset-es2015": "^6.1.4"
+  }
+}
