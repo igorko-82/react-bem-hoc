@@ -1,6 +1,5 @@
 node_modules
 .idea/
-/index.js
 *.iml
 yarn.lock
 
