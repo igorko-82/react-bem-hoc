@@ -2,7 +2,7 @@
   "name": "react-bem-hoc",
   "version": "1.0.0",
   "description": "HOC for reactjs components",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "prepublish": "babel src/index.js  --out-file index.js"
   },
